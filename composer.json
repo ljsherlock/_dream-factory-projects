@@ -1,0 +1,17 @@
+{
+    "name": "sherlock/dream-factory-projects",
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sherlock\\DreamFactoryProjects\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ljsherlock",
+            "email": "lewis@ljsherlock.com"
+        }
+    ]
+}
